@@ -19,3 +19,7 @@ Wine kurulumu sonrasında:
 Menü de Wine kategorisinin eklenmiş olduğunu göreceksiniz. Wine ile kurulan uygulamalar burada yer alır. 
 
 "wine --version" komutu ile de versiyon kontrolü yapabilirsiniz.
+
+gerçek Microsoft .NET Framework dosyalarını 64-bit bir uygulama için en sağlam .NET sürümünü şöyle kurabilirsiniz:
+
+winetricks dotnet48
