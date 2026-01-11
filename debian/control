@@ -7,8 +7,8 @@ Standards-Version: 1.0
 
 Package: wine-kur
 Architecture: all
-Depends: wine
-Recommends: wine64, wine32, winetricks,
+Depends: wine, winetricks
+Recommends: wine64, wine32
 Description: Microsoft Windows Compatibility Layer
  Wine (Wine Is Not an Emulator - Wine Bir Öykünücü Değildir) kelimelerinin kısaltılmışı olup, Linux, macOS, & BSD benzeri POSIX uyumlu işletim çeşitli sistemlerinde Windows uygulamalarını çalıştırma yetisine sahip uyumluluk katmanıdır.
 
